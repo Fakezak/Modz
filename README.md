@@ -16,7 +16,7 @@ This is a simple Python tool for automating Free Fire gameplay with no recoil an
 ## Installation:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ff-no-recoil-auto-headshot.git
+   git clone https://github.com/Fakezak/Modz.git
    ```
 
 2. Install the dependencies:
